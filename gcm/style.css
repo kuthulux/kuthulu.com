@@ -1,0 +1,32 @@
+body {margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; background:url(https://lh5.googleusercontent.com/-npecUREMuZc/Tr5ih767qOI/AAAAAAAAAEE/EaGE_bulJpM/s1800/body.jpg) repeat-x center top #FFFFFF;}
+a {color:#000000;}
+a:hover {text-decoration:none;}
+
+#container {width:940px; margin:0 auto; background:url(https://lh6.googleusercontent.com/-JiV_LV1bTnA/Tr5ik47ooDI/AAAAAAAAAEU/2_JRRipdAic/s940/main.jpg) no-repeat #FFFFFF; margin-top:10px;}
+
+#sidebar {float:right; width:179px; padding:0 20px 35px 20px; font-size:11px; line-height:16px;}
+#sidebar h3 {padding:5px 0 5px 20px; margin:20px 0 10px -20px; background:url(images/sidebar_h3.jpg) repeat-y; text-transform:uppercase; font-size:15px; font-style:italic; color:#FFFFFF;}
+#sidebar ul {padding:0; margin:0;}
+#sidebar li {list-style:none; border-bottom:1px solid #E1E3E7;}
+#sidebar li a {display:block; width:175px; padding:2px; text-decoration:none;}
+#sidebar li a:hover {background-color:#FF862D; color:#FFFFFF;}
+
+#main {margin-right:220px;}
+#menu {height:60px; padding:10px 11px 0 0;}
+#menu ul {padding:0; margin:0; float:right; width:130px;}
+#menu li {list-style:none; border-bottom:1px solid #FFEB29;}
+#menu a {display:block; width:126px; padding:2px; color:#FFFFFF; font-size:14px; text-decoration:none;}
+#menu a:hover {background-color:#FF862D;}
+#logo {padding:50px 0 0 0; padding-right:15px; height:24px; text-align:right;}
+#logo a {color:#FFFFFF; text-decoration:none; font-weight:bold; font-size:18px;}
+#text {padding:50px 30px 35px 30px; font-size:12px; line-height:16px;}
+#text h1, #text h2 {font-size:20px; font-weight:normal; margin:20px 0 10px 0;}
+#text ul {margin-top:8px; margin-bottom:8px;}
+#text br {line-height:8px;}
+
+#footer {clear:both; height:60px; background:url(images/footer.jpg) no-repeat; font-size:11px;}
+#menu_footer {position: absolute; padding:7px 200px 0 0; text-transform:lowercase;}
+#left_footer {float:left; padding:35px 30px 0 30px;}
+#right_footer {float:right; padding:20px 10px 0 0px; width:190px; text-align:center; font-size:9px;}
+#center_footer {position: absolute; margin: -17px 0 0 0; margin-left: 400px;}
+#links_footer {margin-left: 35px; }
